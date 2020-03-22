@@ -5,4 +5,4 @@ bot.on('message', (message) => {
         message.react('🏳️‍🌈');
     }
 });
-bot.login('NjkxMzE5Mzg5MDY4MzI4OTcw.XnefRw.LF0pE9SgIBWl0PlWVyAezx2pgY4');
+bot.login('NjkxMzE5Mzg5MDY4MzI4OTcw.Xnef1g.Wa19ngbqfJUdGYyMVDQiz0SYvg8');
