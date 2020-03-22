@@ -7,4 +7,4 @@ bot.on('message', (message) => {
     }
 });
 
-bot.login('NjkxMzE5Mzg5MDY4MzI4OTcw.XneiOQ.TflVE69BI6w8al5mMP92m77FfG0');
+bot.login(process.env.BOT_TOKEN);
